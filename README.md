@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://linkedin.com/in/sudip-chel-74a27b247"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
     <a href="https://facebook.com/vindesi.tara.7773"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/shibam_chel"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/mystic_phoenixo_/"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
 </p>
 
 ---
